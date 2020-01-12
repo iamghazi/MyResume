@@ -144,10 +144,10 @@ I am a full stack software developer with a strong grasp on Algorithms and Data 
 
 \begin{minipage}[t]{1\textwidth} % 40% of the page width for the introduction text
 	\vspace{-\baselineskip} % Required for vertically aligning minipages
-\textbf{Languages:} \texttt{Python \score{5}{5}  | Javascript \score{5}{5}  | C++ \score{5}{5}  | Java \score{4}{5}  | PHP \score{3}{5}  | HTML \score{5}{5}} \\ 
-\textbf{Frameworks \& Libraries:} \texttt{Django \score{4}{5}  | Jquery \score{5}{5}  | Reactjs \score{3}{5}  | Google App Script (GAS) \score{4}{5}} \\
+\textbf{Languages:} \texttt{Python \score{4}{5}  | Javascript \score{4}{5}  | C++ \score{5}{5}  | Java \score{4}{5}  | PHP \score{3}{5}  | HTML \score{5}{5}} \\ 
+\textbf{Frameworks \& Libraries:} \texttt{Django \score{4}{5}  | Jquery \score{4}{5}  | Reactjs \score{3}{5}  | Google App Script (GAS) \score{4}{5}} \\
 \textbf{Miscellaneous:} \texttt{Git \score{4}{5}  | MySQL \score{4}{5}  | Atom \score{4}{5}  | CSS \score{5}{5}  | Linux \score{4}{5}  | Bootstrap \score{5}{5}} \\
-\textbf{Familiar:} \texttt{CGI | Spring Framework | Eclipse | JUnit | OAuth | REST APIs | RStudio | MATLAB | Xero API | Facebook API}% Dummy text
+\textbf{Experienced:} \texttt{CGI | Spring Framework | Eclipse | JUnit | OAuth | RStudio | MATLAB | Xero API | Facebook API}% Dummy text
 \end{minipage}\\
 %-----------------------------------------------------------------------------------
 % Courses and skills
@@ -186,9 +186,9 @@ I am a full stack software developer with a strong grasp on Algorithms and Data 
 
 	\cvsect{Languages}
 	
-	\textbf{Bhojpuri} - native\\
-	\textbf{Urdu} - \score{5}{5}\\
-	\textbf{English} - \score{5}{5}
+	\textbf{English} - \score{5}{5}\\
+	\textbf{Urdu/Hindi} - \score{5}{5}\\
+	\textbf{Bhojpuri} - native
 \end{minipage}
 \hfill
 \begin{minipage}[t]{0.3\textwidth}
